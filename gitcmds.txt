@@ -1,0 +1,5 @@
+Some git commands :
+1] git clone ...
+2] git status
+3] git add . or git add <filename>
+4] git commit -m "<file title>" -m "<file description>"
